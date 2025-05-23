@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/a21braispn/Documents/CD_Examen/exament3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/a21braispn/Documents/CD_Examen/exament3/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'exament3 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'exament3 1.0-SNAPSHOT API'
+com.xulioxesus
+C:\Users\a21braispn\Documents\CD_Examen\exament3\src\main\java = 1747984110127
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\allclasses-index.html = 1747987608335
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\allpackages-index.html = 1747987608341
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\copy.svg = 1747987608370
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\element-list = 1747987608278
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\help-doc.html = 1747987608366
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\index-all.html = 1747987608357
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\index.html = 1747987608361
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\link.svg = 1747987608371
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\member-search-index.js = 1747987608346
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\module-search-index.js = 1747987608343
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\overview-tree.html = 1747987608320
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\package-search-index.js = 1747987608344
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\script.js = 1747987608368
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\search-page.js = 1747987608377
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\search.html = 1747987608359
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\search.js = 1747987608375
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\stylesheet.css = 1747987608367
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\tag-search-index.js = 1747987608347
+C:\Users\a21braispn\Documents\CD_Examen\exament3\target\reports\apidocs\type-search-index.js = 1747987608345

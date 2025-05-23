@@ -1,25 +1,29 @@
 package com.xulioxesus;
 
-class BubbleSort{
-    
-    public void ordenar(int [] arr, int n)
-    {
-        int i, j, temp;
-        boolean swapped;
-        for (i = 0; i < n - 1; i++) {
-            swapped = false;
-            for (j = 0; j < n - i - 1; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    
-                    temp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
-                    swapped = true;
+/**
+ * Clase en la que tenemos un metodo de ordenacion de burbuja.
+ */
+public class BubbleSort {
+
+    /**
+     * Este método ordena una lista de números.
+     * @param listaNumeros Lista de números a ordenar
+     * @param cantidade Cantidad de números de la lista
+     */
+    public void ordenar(int[] listaNumeros, int cantidade) {
+        for (int i = 0; i < cantidade - 1; i++) {
+            boolean intercambiado = false;
+            for (int j = 0; j < cantidade - i - 1; j++) {
+                if (listaNumeros[j] > listaNumeros[j + 1]) {
+                    int auxiliar = listaNumeros[j];
+                    listaNumeros[j] = listaNumeros[j + 1];
+                    listaNumeros[j + 1] = auxiliar;
+                    intercambiado = true;
                 }
             }
-
-            if (swapped == false)
+            if (!intercambiado) {
                 break;
+            }
         }
     }
 }
